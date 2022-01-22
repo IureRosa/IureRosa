@@ -27,10 +27,10 @@
   - Web and software development, analytics and prediction;
   - Robotic Process Automation;
   - Applied ML, Computer Vision, DeepRL.
-  
- - ⚡ Fun fact: 
  
-  - I'm not fun
+- ⚡ Fun fact: 
+
+  - I'm not fun.
 
 <!-- - 🤔 I’m looking for help with: -->
 <!-- 
