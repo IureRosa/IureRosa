@@ -12,7 +12,7 @@
 <!-- <img src = "https://readme-jokes.vercel.app/api?theme=watermelon" height="105"> -->
 
 
-:cactus: I am passionate about technology, designing, developing and applying data science in various areas of health / medicine.
+:cactus: I am passionate about technology, designing, developing and applying artificial intelligence in various areas of robotics.
 
 
 - 🔭 I’m currently working on:
