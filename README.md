@@ -37,7 +37,7 @@
   - Stop synchronous or asynchronous functions in Python that are called through buttons created with the tkinter library. -->
 
 - 📫 How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/iurerosa/)](https://www.linkedin.com/in/iurerosa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/iure-rosa/)](https://www.linkedin.com/in/iure-rosa)
 ![GitHub Followers](https://img.shields.io/github/followers/IureRosa?style=social) 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=IureRosa) 🚀
 
