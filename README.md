@@ -11,6 +11,8 @@
  -->
 <!-- <img src = "https://readme-jokes.vercel.app/api?theme=watermelon" height="105"> -->
 
+:cactus: I am passionate about technology, designing, developing and applying data science in various areas of health / medicine.
+
 - 🔭 I’m currently working on:
  
   - Graphical Interface Development of a Machine Learning Application for Predictive Maintenance;
