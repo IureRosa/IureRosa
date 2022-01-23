@@ -36,9 +36,9 @@
 
   - I'm not fun.
 
-<!-- - 🤔 I’m looking for help with: -->
-<!-- 
-  - Stop synchronous or asynchronous functions in Python that are called through buttons created with the tkinter library. -->
+- 🤔 I’m looking for help with:
+
+  - Stop synchronous or asynchronous functions in Python that are called through buttons created with the tkinter library.
 
 - 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/iure-rosa/)](https://www.linkedin.com/in/iure-rosa)
