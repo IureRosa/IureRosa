@@ -50,8 +50,8 @@
 
 ## Languages and Tools:
 
-[![IureRosa GitHub stats](https://github-readme-stats.vercel.app/api?username=IureRosa&show_icons=true&theme=radical)](https://github.com/IureRosa/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IureRosa&layout=compact&show_icons=true&theme=radical)](https://github.com/IureRosa/github-readme-stats)
+![IureRosa GitHub stats](https://github-readme-stats.vercel.app/api?username=IureRosa&show_icons=true&theme=radical)]
+![IureRosa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IureRosa&layout=compact&show_icons=true&theme=radical)](https://github.com/IureRosa/github-readme-stats)
 
 - Thanks for visiting. 
  
