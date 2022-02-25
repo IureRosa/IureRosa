@@ -45,8 +45,6 @@
 ![GitHub Followers](https://img.shields.io/github/followers/IureRosa?style=social) 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=IureRosa) 🚀
 
-  - iurengineer@gmail.com
-
 
 ## Languages and Tools:
 
