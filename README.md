@@ -51,9 +51,6 @@
 ![IureRosa GitHub stats](https://github-readme-stats.vercel.app/api?username=IureRosa&show_icons=true&theme=radical)
 ![IureRosa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IureRosa&layout=compact&show_icons=true&theme=radical)
 
-## Snake contributions in the last year
-
-![Snake animation](https://github.com/IureRosa/IureRosa/blob/output/github-contribution-grid-snake.svg)
 
 - Thanks for visiting. 
  
