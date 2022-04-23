@@ -20,13 +20,13 @@
  
   - Graphical Interface Development of a Machine Learning Application for Predictive Maintenance;
   - Robotics Research [NERo-UFV](https://github.com/neroUFV);
-  - Web Full-Stack Developer (Bootcamp)
+  - Web Full Stack Developer (Bootcamp)
   
 - 🌱 I’m currently learning:
 
   - Artificial Intelligence applied in Mobile Robotics, specifically Reinforcement Learning algorithms;
   - Data Science in general, specifically anything useful for Robotics applications or Predictive Maintenance processes;
-  - Web fullstack development.
+  - Web full stack development.
 
 - 👯 I’m looking to collaborate on:
 
