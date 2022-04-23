@@ -36,7 +36,7 @@
  
 - ⚡ Fun fact: 
 
-  - I'm not fun.
+  - I've been hit by a wagon.
 
 - 🤔 I’m looking for help with:
 
