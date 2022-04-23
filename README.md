@@ -20,6 +20,7 @@
  
   - Graphical Interface Development of a Machine Learning Application for Predictive Maintenance;
   - Robotics Research [NERo-UFV](https://github.com/neroUFV);
+  - Web Full-Stack Developer (Bootcamp)
   
 - 🌱 I’m currently learning:
 
