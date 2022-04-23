@@ -14,7 +14,7 @@
 
 :cactus: I am passionate about technology, designing, developing and applying artificial intelligence in various areas of robotics.
 
-![Snake animation](https://github.com/betopinheiro1005/betopinheiro1005/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/IureRosa/IureRosa/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on:
  
