@@ -51,6 +51,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+ <img align="center" alt="Leo-MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" alt="Angular" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Bootstrap" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Django" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
@@ -74,8 +75,11 @@
 
 ## Languages and Tools:
 
-![IureRosa GitHub stats](https://github-readme-stats.vercel.app/api?username=IureRosa&show_icons=true&theme=radical)
-![IureRosa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IureRosa&layout=compact&show_icons=true&theme=radical)
+<div align="left">
+  <a href="https://github.com/IureRosa">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=IureRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IureRosa&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 - Thanks for visiting. 
