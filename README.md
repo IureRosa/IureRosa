@@ -77,7 +77,7 @@
 
 <div align="left">
   <a href="https://github.com/IureRosa">
-   <img align="right" alt="Vegeta-Gif" height="400" style="border-radius:50px;" src="./vegeta.gif">
+   <img align="right" alt="Vegeta-Gif" height="380" style="border-radius:50px;" src="./vegeta.gif">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IureRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IureRosa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
