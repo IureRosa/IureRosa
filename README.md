@@ -77,8 +77,9 @@
 
 <div align="left">
   <a href="https://github.com/IureRosa">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=IureRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IureRosa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IureRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IureRosa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/af9c3c448d51297.png">
 </div>
 
  
