@@ -16,7 +16,7 @@
 
 TOTAL IDE-LOGGED PROGRAMMING TIME SINCE May,2021:
 
-[![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812/project/5230adab-97f5-4bde-8d5c-2e7ad2f7b060.svg)](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812/project/5230adab-97f5-4bde-8d5c-2e7ad2f7b060)
+[![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812/project/5230adab-97f5-4bde-8d5c-2e7ad2f7b060.svg)](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812)
 
 ![Snake animation](https://github.com/IureRosa/IureRosa/blob/output/github-contribution-grid-snake.svg)
 
