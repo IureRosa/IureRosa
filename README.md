@@ -14,10 +14,6 @@
 
 :cactus: I am passionate about technology, designing, developing and applying artificial intelligence in various areas of robotics.
 
-TOTAL IDE-LOGGED PROGRAMMING TIME SINCE May,2021:
-
-[![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812/project/94a6a7f6-da7b-440c-b4c2-21b7cafda41b.svg)](https://wakatime.com/@meninoiure)
-
 ![Snake animation](https://github.com/IureRosa/IureRosa/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on:
