@@ -20,7 +20,7 @@
  
   - Graphical Interface Development of a Machine Learning Application for Predictive Maintenance;
   - Robotics Research [NERo-UFV](https://github.com/neroUFV);
-  - Web Full Stack Developer (Bootcamp) [ESF](https://vicosa.esf.org.br) & [NERo](https://robotica.ufv.br)
+  - Web Full Stack Developer: [ESF](https://vicosa.esf.org.br) & [NERo](https://robotica.ufv.br)
   
 - 🌱 I’m currently learning:
 
