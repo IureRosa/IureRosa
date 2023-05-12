@@ -62,7 +62,6 @@
   <img align="center" alt="GitHub" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="Linux" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="OpenCV" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
- <img align="center" alt="OpenCV" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
 
 ## Languages and Tools:
