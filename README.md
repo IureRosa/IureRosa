@@ -42,9 +42,9 @@
 - 🌱 Ask me about:
 
   - Robotics in general, specially for:
-    - Applied DeepRL in Mapless Navigation Problems, Transfer Learning and Neural Networks for Hyperparameters tunning;
+    - Applied DeepRL in Mapless Navigation Problems, Transfer Learning and Neural Networks for Hyperparameters tuning;
     - Human-robot Interaction
-  - Biomedical Engineering theory and applications;
+  - Data Science, Engineering theory and applications;
   - Solving problems with AI, data storytelling and education.
 
 ### Languages
