@@ -8,7 +8,9 @@
     <b>Welcome to my GitHub account!</b><br><br>
     <a href="https://github.com/IureRosa">
      <img src="https://komarev.com/ghpvc/?username=IureRosa&color=blue&style=flat)" />
-   </a><br><br>
+   </a>
+   [![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812.svg)](https://wakatime.com/@bf46ab7b-2735-433b-a4d2-6f5ee4358812)
+   <br><br>
     <i>
         I'm Iure Rosa.<br>
         I am passionate about technology, designing, developing and applying artificial intelligence in various areas of robotics.<br>
