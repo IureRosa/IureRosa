@@ -9,7 +9,7 @@
     <a href="https://github.com/IureRosa">
      <img src="https://komarev.com/ghpvc/?username=IureRosa&color=blue&style=flat)" />
    </a>
-   [![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812.svg)](https://wakatime.com/@bf46ab7b-2735-433b-a4d2-6f5ee4358812)
+   <a href="https://wakatime.com/@bf46ab7b-2735-433b-a4d2-6f5ee4358812"><img src="https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812.svg" alt="Total time coded since May 28 2022" /></a>
    <br><br>
     <i>
         I'm Iure Rosa.<br>
