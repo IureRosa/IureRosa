@@ -55,7 +55,7 @@
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/IureRosa)
 [![OpenCV](https://img.shields.io/badge/opencv-black?style=for-the-badge&logo=opencv)](https://github.com/IureRosa)
 [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/IureRosa)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/IureRosa)<br>
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/IureRosa)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/IureRosa)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/IureRosa)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/IureRosa)
