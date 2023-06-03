@@ -1,23 +1,18 @@
-<!-- https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git/34467298#34467298 -->
+<img src="https://readme-jokes.vercel.app/api?theme=watermeloni" alt="Jokes Card" />
+
 
 <h1 align="center">Hi, curious person! <img src="https://github.com/IureRosa/IureRosa/assets/bye.gif" width="28px" alt="👋"></h1>
 
-<div align="center" height="110">
-<img height="110" src = "https://readme-jokes.vercel.app/api?theme=watermelon" > 
-</div>
-
-<!-- 
-|   |  
-| ------------------- | 
-| <img src = "https://readme-jokes.vercel.app/api?theme=watermelon"  | 
- -->
-<!-- <img src = "https://readme-jokes.vercel.app/api?theme=watermelon" height="105"> -->
+<div align="center" 
 
 <p align="center">
     <b>Welcome to my GitHub account!</b><br><br>
     <a href="https://github.com/IureRosa">
      <img src="https://komarev.com/ghpvc/?username=IureRosa&color=blue&style=flat)" />
    </a><br><br>
+    TOTAL IDE-LOGGED PROGRAMMING TIME SINCE June,2023: 
+    >
+    > [![wakatime](https://wakatime.com/badge/user/5004c81a-62a7-4721-a885-32654543b047.svg?style=for-the-badge)](https://wakatime.com/@meninoiure) <br><br>
     <i>
         I'm Iure Rosa.<br>
         I am passionate about technology, designing, developing and applying artificial intelligence in various areas of robotics.<br>
@@ -39,6 +34,20 @@
         <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white">
     </a>
 </p>
+
+- 🔭 I’m currently working on:
+
+  - Becoming a [IBM Certified AI Engineer](https://www.coursera.org/professional-certificates/ai-engineer);
+  - Mobile Robot Navigation in [NERo](https://www.robotica.ufv.br/) & [MRS Group](https://rci.cvut.cz/)
+  - Mapless Navigation using DRL methods and Transfer & Curriculum Learning ([ongoing!](https://github.com/IureRosa))
+  
+- 🌱 Ask me about:
+
+  - Robotics in general, specially for:
+    - Applied DeepRL in Mapless Navigation Problems, Transfer Learning and Neural Networks for Hyperparameters tunning;
+    - Human-robot Interaction
+  - Biomedical Engineering theory and applications;
+  - Solving problems with AI, data storytelling and education.
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/IureRosa)
