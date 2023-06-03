@@ -1,7 +1,7 @@
 <img src="https://readme-jokes.vercel.app/api?theme=watermeloni" alt="Jokes Card" />
 
 
-<h1 align="center">Hi, curious person! <img src="https://github.com/IureRosa/IureRosa/assets/bye.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, curious person! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 
 <p align="center">
@@ -9,9 +9,6 @@
     <a href="https://github.com/IureRosa">
      <img src="https://komarev.com/ghpvc/?username=IureRosa&color=blue&style=flat)" />
    </a><br><br>
-    TOTAL IDE-LOGGED PROGRAMMING TIME SINCE June,2023: <br><br>
-    
-    [![wakatime](https://wakatime.com/badge/user/5004c81a-62a7-4721-a885-32654543b047.svg?style=for-the-badge)](https://wakatime.com/@meninoiure) <br><br>
     <i>
         I'm Iure Rosa.<br>
         I am passionate about technology, designing, developing and applying artificial intelligence in various areas of robotics.<br>
