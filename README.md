@@ -3,8 +3,7 @@
 
 <h1 align="center">Hi, curious person! <img src="https://github.com/IureRosa/IureRosa/assets/bye.gif" width="28px" alt="👋"></h1>
 
-<div align="center" 
-
+<div 
 <p align="center">
     <b>Welcome to my GitHub account!</b><br><br>
     <a href="https://github.com/IureRosa">
