@@ -3,15 +3,15 @@
 
 <h1 align="center">Hi, curious person! <img src="https://github.com/IureRosa/IureRosa/assets/bye.gif" width="28px" alt="👋"></h1>
 
-<div 
+
 <p align="center">
     <b>Welcome to my GitHub account!</b><br><br>
     <a href="https://github.com/IureRosa">
      <img src="https://komarev.com/ghpvc/?username=IureRosa&color=blue&style=flat)" />
    </a><br><br>
-    TOTAL IDE-LOGGED PROGRAMMING TIME SINCE June,2023: 
-    >
-    > [![wakatime](https://wakatime.com/badge/user/5004c81a-62a7-4721-a885-32654543b047.svg?style=for-the-badge)](https://wakatime.com/@meninoiure) <br><br>
+    TOTAL IDE-LOGGED PROGRAMMING TIME SINCE June,2023: <br><br>
+    
+    [![wakatime](https://wakatime.com/badge/user/5004c81a-62a7-4721-a885-32654543b047.svg?style=for-the-badge)](https://wakatime.com/@meninoiure) <br><br>
     <i>
         I'm Iure Rosa.<br>
         I am passionate about technology, designing, developing and applying artificial intelligence in various areas of robotics.<br>
